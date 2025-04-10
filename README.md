@@ -9,7 +9,7 @@ in biopsied olfactory neuronal cells from patients with psychosis. <b>Schizphren
 ## Data
 The "data" folder contains p62 protein levels from olfactory neuronal cells (ONCs) and lymphoblasts of healthy controls and patients with ealry-stage psychosis (onset within 2 years).
 * database_ONCs.csv --- data from ONCs
-* database_lym.csv --- data from lymphoblasts   
+* database_LB.csv --- data from lymphoblasts   
 
 
 ## Analysis 
