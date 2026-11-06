@@ -1,4 +1,4 @@
-# p62_psychosis
+# p62 protein/mRNA levels
 This is a data depository for the following publication: 
 
 
