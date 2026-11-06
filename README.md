@@ -1,4 +1,4 @@
-# p62 protein/mRNA levels
+# p62 and psychosis
 This is a data depository for the following publication: 
 
 
